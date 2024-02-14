@@ -1,5 +1,5 @@
-# Timer
-### a MGTC28 Python example
+# Nerves of Steel Party Game
+### MGTC28 Assignment 4
 This is a timer program written in Python  
 
 ![times-up!](https://media.makeameme.org/created/times-up-5923e0.jpg)\
