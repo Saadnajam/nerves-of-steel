@@ -25,7 +25,7 @@ The program goes to sleep
 	
 	WHILE program is not sleeping
 		
-		Display "Time Up.  Last to sit down wins."
+		Display "Times Up.  Last to sit down wins."
 		
 		Displays times up spongebob meme
 		
